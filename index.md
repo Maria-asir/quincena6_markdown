@@ -13,6 +13,12 @@
 | Soy la primera celda de la tabla!        | Y yo la segunda                         |
 | Hola hola hola                           | Pues eso, que podemos poner más         |
 
+
+| Columna 1 | Columna 2 |
+|-----------|-----------|
+| A         | B         |
+
+
 ### Enlace que haga referencia a otra de las páginas de nuestra web
 Enlace a [Mi otro documento](mi-otro-documento.md)
 
