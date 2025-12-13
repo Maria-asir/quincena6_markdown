@@ -8,6 +8,7 @@
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 
 ### Tabla
+
 | Código                                   | Resultado                               |
 |------------------------------------------|-----------------------------------------|
 | Soy la primera celda de la tabla!        | Y yo la segunda                         |
