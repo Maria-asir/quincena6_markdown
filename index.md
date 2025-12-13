@@ -6,5 +6,7 @@
 
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 
+Enlace a [Mi otro documento](mi-otro-documento.md)
+
 Podemos poner incluso imágenes!  
 ![Imagen](https://guilleatm.github.io/demo-web/assets/img/my-profile-img.jpg)
