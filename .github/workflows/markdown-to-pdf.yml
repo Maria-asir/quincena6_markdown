@@ -27,7 +27,7 @@ jobs:
           build_html: false
           build_pdf: true
           table_of_contents: true
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: markdown-pdfs
           path: pdfs
