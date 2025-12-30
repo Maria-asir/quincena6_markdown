@@ -25,4 +25,4 @@ Enlace a [Mi otro documento](mi-otro-documento.md)
 
 ### Imagen
 Podemos poner incluso imágenes!  
-![Imagen](https://guilleatm.github.io/demo-web/assets/img/my-profile-img.jpg)
+![Imagen](./assets/images/my-profile-img.jpg)
